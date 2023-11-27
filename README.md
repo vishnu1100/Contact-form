@@ -109,7 +109,7 @@ To run or install  this in your project locally,
 10. A popup will come just copy the webapp url from there dont lose it just copy and paste elsewhere (need it later :)
 
 
-![Screenshot 11](/screenshots/shot11.png)
+![Screenshot 11](/screenshots/shot11.jpg)
 
 11. Thats all on the Googledrive now we can got to our project files
 
