@@ -60,10 +60,6 @@ For this project, we used the following Google Fonts:
 - [Roboto](https://fonts.google.com/specimen/Roboto) for the main content and descriptions.
 
 
-## Screenshots
-
-![Screenshot 1](/screenshots/1.png)
-
 ## Installation
 
 To run or install  this in your project locally,
